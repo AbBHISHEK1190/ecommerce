@@ -1,0 +1,4 @@
+function validategst()
+{
+    alert('djwcj');
+}
